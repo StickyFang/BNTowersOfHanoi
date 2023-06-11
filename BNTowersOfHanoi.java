@@ -1,3 +1,11 @@
+// Programer: Bryce Nyswonger
+//Class CS145
+//References: W3Schools, Github, Youtube
+//This program is meant to solve the "Towers Of Hanoi" Riddle
+// The program only shows a text output.... I spent way too long trying to use for loops to create little visualizations
+// of the discsand ultimatley failed.
+
+
 public class BNTowersOfHanoi {
     public static void main(String[] args) {
         int d = 4; // "disks"
